@@ -1,6 +1,7 @@
-## Lesson-24
+## Lesson-26-complete
 
-In this section, we are going to introduce our stripe integration and create a stripe button to help us leverage the stripe checkout library. Stripe is an excellent service that allows us to massively simplify our checkout flow, which would otherwise be incredibly complicated.
+In this repository, all our components have been converted to styled-components!
+
 
 # How to fork and clone
 
